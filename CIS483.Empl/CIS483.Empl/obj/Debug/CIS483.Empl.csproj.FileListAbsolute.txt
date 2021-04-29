@@ -1,0 +1,18 @@
+C:\Users\Said\Source\Repos\CIS483.Empl\CIS483.Empl\obj\Debug\CIS483.Empl.csproj.CoreCompileInputs.cache
+C:\Users\Said\Source\Repos\CIS483.Empl\CIS483.Empl\bin\Debug\CIS483.Empl.dll
+C:\Users\Said\Source\Repos\CIS483.Empl\CIS483.Empl\bin\Debug\CIS483.Empl.pdb
+C:\Users\Said\Source\Repos\CIS483.Empl\CIS483.Empl\obj\Debug\CIS483.Empl.dll
+C:\Users\Said\Source\Repos\CIS483.Empl\CIS483.Empl\obj\Debug\CIS483.Empl.pdb
+C:\Users\Said\Source\Repos\CIS483.Empl\CIS483.Empl\obj\Debug\CIS483.Empl.csprojAssemblyReference.cache
+C:\Solution of Assignment 6 ASP.NET MVC Using C# - Part 1\CIS483.Empl\CIS483.Empl\bin\Debug\CIS483.Empl.dll
+C:\Solution of Assignment 6 ASP.NET MVC Using C# - Part 1\CIS483.Empl\CIS483.Empl\bin\Debug\CIS483.Empl.pdb
+C:\Solution of Assignment 6 ASP.NET MVC Using C# - Part 1\CIS483.Empl\CIS483.Empl\obj\Debug\CIS483.Empl.csprojAssemblyReference.cache
+C:\Solution of Assignment 6 ASP.NET MVC Using C# - Part 1\CIS483.Empl\CIS483.Empl\obj\Debug\CIS483.Empl.csproj.CoreCompileInputs.cache
+C:\Solution of Assignment 6 ASP.NET MVC Using C# - Part 1\CIS483.Empl\CIS483.Empl\obj\Debug\CIS483.Empl.dll
+C:\Solution of Assignment 6 ASP.NET MVC Using C# - Part 1\CIS483.Empl\CIS483.Empl\obj\Debug\CIS483.Empl.pdb
+C:\Users\tramn\Desktop\Solution of Assignment 6 ASP.NET MVC Using C# - Part 1\CIS483.Empl\CIS483.Empl\bin\Debug\CIS483.Empl.dll
+C:\Users\tramn\Desktop\Solution of Assignment 6 ASP.NET MVC Using C# - Part 1\CIS483.Empl\CIS483.Empl\bin\Debug\CIS483.Empl.pdb
+C:\Users\tramn\Desktop\Solution of Assignment 6 ASP.NET MVC Using C# - Part 1\CIS483.Empl\CIS483.Empl\obj\Debug\CIS483.Empl.csprojAssemblyReference.cache
+C:\Users\tramn\Desktop\Solution of Assignment 6 ASP.NET MVC Using C# - Part 1\CIS483.Empl\CIS483.Empl\obj\Debug\CIS483.Empl.csproj.CoreCompileInputs.cache
+C:\Users\tramn\Desktop\Solution of Assignment 6 ASP.NET MVC Using C# - Part 1\CIS483.Empl\CIS483.Empl\obj\Debug\CIS483.Empl.dll
+C:\Users\tramn\Desktop\Solution of Assignment 6 ASP.NET MVC Using C# - Part 1\CIS483.Empl\CIS483.Empl\obj\Debug\CIS483.Empl.pdb
